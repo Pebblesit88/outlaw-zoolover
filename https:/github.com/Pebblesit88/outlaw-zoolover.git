@@ -1,0 +1,3 @@
+git remote add origin https://github.com/Pebblesit88/outlaw-zoolover.git
+git branch -M main
+git push -u origin main
